@@ -7,7 +7,6 @@ Version 3: [**Yes or No Spinner**](https://www.yesornoo.com)
 
 ## Introduction to the Yes or No Wheel Phenomenon
 Yes or No Wheel has exploded in popularity as one of 2025’s simplest yet most addictive web tools. Part fortune-teller, part party game, this minimalist spinner turns any tough choice into a confetti-filled **YES** or **NO** in one tap. Built on modern web tech (Next.js 14 + Tailwind + Shadcn/UI), the site delivers sub-100 ms interactions across desktop and mobile.  
-Since its February 2025 relaunch, Yes or No Wheel has clocked **4 million spins** and secured mentions on Product Hunt, Reddit’s r/productivity, and dozens of tech blogs—proof that micro-decisions are a macro trend.
 
 ## Core Mechanics: How the Spinner Works
 At its heart, Yes or No Wheel is a responsive SVG dial animated with spring physics. Users enter an optional question—say, *“Should we deploy to prod on Friday?”*—and hit **Spin** to generate “decision tokens,” the site’s playful reward metric.  
